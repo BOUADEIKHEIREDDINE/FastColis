@@ -1,0 +1,1 @@
+"""FastColis analytics application package."""

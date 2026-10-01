@@ -1,0 +1,1 @@
+"""FastColis backend application."""
