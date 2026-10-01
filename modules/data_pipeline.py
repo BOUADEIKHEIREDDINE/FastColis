@@ -18,6 +18,14 @@ TARGET_ALIASES = (
     "global_satisfaction",
 )
 
+FINAL_DATABASE_COLUMNS = {
+    "taille_colis",
+    "fragile",
+    "poids_kg",
+    "prix_livraison_eur",
+    "statut_colis",
+}
+
 
 def normalize_column_name(name: Any) -> str:
     """Return a stable comparison form for a column name."""
@@ -146,7 +154,10 @@ def filter_low_correlation(
 ) -> tuple[dict[str, pd.DataFrame], pd.DataFrame]:
     """Remove numeric variables whose absolute correlation is below a threshold."""
     filtered_datasets = {}
-    removed_rows = correlations[correlations["abs_r"] < threshold].copy()
+    removed_rows = correlations[
+        (correlations["abs_r"] < threshold)
+        & ~correlations["variable"].isin(FINAL_DATABASE_COLUMNS)
+    ].copy()
     if not removed_rows.empty:
         removed_rows["threshold"] = threshold
         removed_rows["justification"] = f"Pearson |r| < {threshold}: faible correlation avec le target."

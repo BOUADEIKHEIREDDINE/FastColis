@@ -17,6 +17,11 @@ FINAL_COLUMNS = (
     "pays",
     "code_produit",
     "produit_global",
+    "taille_colis",
+    "fragile",
+    "poids_kg",
+    "prix_livraison_eur",
+    "statut_colis",
     "satisfaction_normalisee",
     "commentaire_global",
 )
