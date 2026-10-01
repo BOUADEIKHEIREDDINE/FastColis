@@ -108,40 +108,6 @@ def _build_global_statistics(data: pd.DataFrame) -> dict[str, Any]:
     }
 
 
-def _answer_product_ranking(question: str, statistics: dict[str, Any]) -> str | None:
-    """Answer product-ranking questions deterministically from full-base aggregates."""
-    normalized_question = _normalize_text(question)
-    asks_for_ranking = any(
-        phrase in normalized_question
-        for phrase in (
-            "plus eleve", "plus haute", "meilleur", "meilleure", "highest",
-            "best", "maximum", "maximal", "classement", "rank",
-        )
-    )
-    asks_about_products = any(
-        term in normalized_question for term in ("produit", "product")
-    )
-    if not asks_for_ranking or not asks_about_products:
-        return None
-
-    products = statistics.get("scores_par_produit", [])
-    if not products:
-        return None
-
-    best_average = max(products, key=lambda product: product["satisfaction_moyenne"])
-    best_cumulative = max(products, key=lambda product: product["score_cumulatif"])
-    return (
-        f"Sur l'ensemble de la base, {best_average['produit_global']} a la meilleure "
-        f"satisfaction moyenne ({best_average['satisfaction_moyenne']}/5 sur "
-        f"{best_average['nombre_notes']} enquetes). C'est aussi le produit au score "
-        f"cumulatif le plus eleve ({best_cumulative['score_cumulatif']}, pour "
-        f"{best_cumulative['nombre_notes']} enquetes). Le cumul depend du nombre "
-        "d'enquetes. COLIS_PREMIUM est un code produit local, pas un identifiant "
-        "unique global; id_unique identifie chaque enquete et il y en a plusieurs "
-        f"pour un produit ({best_average['nombre_notes']} pour {best_average['produit_global']})."
-    )
-
-
 def answer_with_rag(
     data: pd.DataFrame,
     question: str,
@@ -151,10 +117,6 @@ def answer_with_rag(
     """Answer from retrieved survey rows using a locally available Ollama model."""
     relevant_rows = retrieve_relevant_rows(data, question, top_k=top_k)
     global_statistics = _build_global_statistics(data)
-    ranking_answer = _answer_product_ranking(question, global_statistics)
-    if ranking_answer is not None:
-        return ranking_answer
-
     if not relevant_rows and not global_statistics.get("scores_par_produit"):
         return "Je ne trouve pas de ligne pertinente dans les donnees fournies."
 
