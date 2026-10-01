@@ -1,0 +1,1802 @@
+[
+  {
+    "id_unique":"MA-0001",
+    "date_enquete":"2026-06-18T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé rapidement, mais l'emballage était légèrement abîmé."
+  },
+  {
+    "id_unique":"MA-0002",
+    "date_enquete":"2026-08-10T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0003",
+    "date_enquete":"2026-09-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Tout était parfait, de la livraison à l'état du colis."
+  },
+  {
+    "id_unique":"MA-0004",
+    "date_enquete":"2026-01-05T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Livraison très en retard, colis endommagé et service client impossible à joindre."
+  },
+  {
+    "id_unique":"MA-0005",
+    "date_enquete":"2026-04-25T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Excellente expérience, tout s'est très bien passé."
+  },
+  {
+    "id_unique":"MA-0006",
+    "date_enquete":"2026-04-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très bonne expérience, avec une livraison ponctuelle et un colis impeccable."
+  },
+  {
+    "id_unique":"MA-0007",
+    "date_enquete":"2026-06-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis a bien été reçu, avec un léger retard sans conséquence importante."
+  },
+  {
+    "id_unique":"MA-0008",
+    "date_enquete":"2026-08-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Je suis pleinement satisfait, le service a été rapide et professionnel."
+  },
+  {
+    "id_unique":"MA-0009",
+    "date_enquete":"2026-01-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Je suis plutôt insatisfait, surtout à cause du délai de livraison."
+  },
+  {
+    "id_unique":"MA-0010",
+    "date_enquete":"2026-08-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":1.0,
+    "commentaire_global":"Expérience décevante dans l'ensemble, malgré un colis reçu en bon état."
+  },
+  {
+    "id_unique":"MA-0011",
+    "date_enquete":"2026-08-06T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très bonne expérience, avec une livraison ponctuelle et un colis impeccable."
+  },
+  {
+    "id_unique":"MA-0012",
+    "date_enquete":"2026-07-25T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison très rapide, colis en parfait état et livreur très professionnel."
+  },
+  {
+    "id_unique":"MA-0013",
+    "date_enquete":"2026-01-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Excellente expérience, tout s'est très bien passé."
+  },
+  {
+    "id_unique":"MA-0014",
+    "date_enquete":"2026-03-27T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0015",
+    "date_enquete":"2026-06-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0016",
+    "date_enquete":"2026-09-17T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0017",
+    "date_enquete":"2026-08-31T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience positive dans l'ensemble, avec un colis reçu proprement et dans les temps."
+  },
+  {
+    "id_unique":"MA-0018",
+    "date_enquete":"2026-07-13T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0019",
+    "date_enquete":"2026-09-25T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est passée normalement et le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0020",
+    "date_enquete":"2026-01-26T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Bonne prise en charge, livraison correcte et livreur professionnel."
+  },
+  {
+    "id_unique":"MA-0021",
+    "date_enquete":"2026-01-27T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis a bien été reçu, avec un léger retard sans conséquence importante."
+  },
+  {
+    "id_unique":"MA-0022",
+    "date_enquete":"2026-04-18T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison a été lente et les réponses du service client peu utiles."
+  },
+  {
+    "id_unique":"MA-0023",
+    "date_enquete":"2026-09-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très satisfait : livraison rapide, livreur courtois et service client efficace."
+  },
+  {
+    "id_unique":"MA-0024",
+    "date_enquete":"2026-03-04T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0025",
+    "date_enquete":"2026-08-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Bonne expérience dans l'ensemble, malgré un léger retard."
+  },
+  {
+    "id_unique":"MA-0026",
+    "date_enquete":"2026-03-29T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0027",
+    "date_enquete":"2026-08-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Livraison très en retard, colis endommagé et service client impossible à joindre."
+  },
+  {
+    "id_unique":"MA-0028",
+    "date_enquete":"2026-03-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Bonne expérience dans l'ensemble, malgré un léger retard."
+  },
+  {
+    "id_unique":"MA-0029",
+    "date_enquete":"2026-06-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Bonne prise en charge, livraison correcte et livreur professionnel."
+  },
+  {
+    "id_unique":"MA-0030",
+    "date_enquete":"2026-07-04T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":1.0,
+    "commentaire_global":"Expérience décevante dans l'ensemble, malgré un colis reçu en bon état."
+  },
+  {
+    "id_unique":"MA-0031",
+    "date_enquete":"2026-04-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service excellent, colis livré rapidement et sans aucun problème."
+  },
+  {
+    "id_unique":"MA-0032",
+    "date_enquete":"2026-07-26T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Bonne expérience dans l'ensemble, malgré un léger retard."
+  },
+  {
+    "id_unique":"MA-0033",
+    "date_enquete":"2026-08-04T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0034",
+    "date_enquete":"2026-08-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0035",
+    "date_enquete":"2026-03-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Service globalement moyen, ni particulièrement bon ni mauvais."
+  },
+  {
+    "id_unique":"MA-0036",
+    "date_enquete":"2026-09-18T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Rien de particulier à signaler, le service était acceptable."
+  },
+  {
+    "id_unique":"MA-0037",
+    "date_enquete":"2026-06-15T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0038",
+    "date_enquete":"2026-03-12T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très bonne expérience, avec une livraison ponctuelle et un colis impeccable."
+  },
+  {
+    "id_unique":"MA-0039",
+    "date_enquete":"2026-02-06T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Je suis pleinement satisfait, le service a été rapide et professionnel."
+  },
+  {
+    "id_unique":"MA-0040",
+    "date_enquete":"2026-02-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Le service a été mauvais du début à la fin, avec beaucoup de retard et un colis abîmé."
+  },
+  {
+    "id_unique":"MA-0041",
+    "date_enquete":"2026-03-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé correctement, même si l'expérience n'avait rien d'exceptionnel."
+  },
+  {
+    "id_unique":"MA-0042",
+    "date_enquete":"2026-02-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0043",
+    "date_enquete":"2026-01-19T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"La livraison était correcte, sans problème particulier."
+  },
+  {
+    "id_unique":"MA-0044",
+    "date_enquete":"2026-05-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé à temps et le livreur était professionnel."
+  },
+  {
+    "id_unique":"MA-0045",
+    "date_enquete":"2026-06-12T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0046",
+    "date_enquete":"2026-09-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0047",
+    "date_enquete":"2026-02-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0048",
+    "date_enquete":"2026-09-15T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service client efficace, même si la livraison a pris plus de temps que prévu."
+  },
+  {
+    "id_unique":"MA-0049",
+    "date_enquete":"2026-05-23T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience très insatisfaisante, livraison tardive et mauvaise prise en charge du service client."
+  },
+  {
+    "id_unique":"MA-0050",
+    "date_enquete":"2026-08-28T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est passée normalement et le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0051",
+    "date_enquete":"2026-01-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0052",
+    "date_enquete":"2026-01-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis était correct mais la livraison a pris trop de temps."
+  },
+  {
+    "id_unique":"MA-0053",
+    "date_enquete":"2026-01-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très bonne expérience, avec une livraison ponctuelle et un colis impeccable."
+  },
+  {
+    "id_unique":"MA-0054",
+    "date_enquete":"2026-05-11T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0055",
+    "date_enquete":"2026-04-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Bonne prise en charge, livraison correcte et livreur professionnel."
+  },
+  {
+    "id_unique":"MA-0056",
+    "date_enquete":"2026-04-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Je suis plutôt insatisfait, surtout à cause du délai de livraison."
+  },
+  {
+    "id_unique":"MA-0057",
+    "date_enquete":"2026-04-13T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison très rapide, colis en parfait état et livreur très professionnel."
+  },
+  {
+    "id_unique":"MA-0058",
+    "date_enquete":"2026-06-10T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis a été livré dans de bonnes conditions et le service client a répondu rapidement."
+  },
+  {
+    "id_unique":"MA-0059",
+    "date_enquete":"2026-01-23T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est mal passée, même si le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0060",
+    "date_enquete":"2026-06-28T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0061",
+    "date_enquete":"2026-09-23T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le livreur était courtois et le colis intact, mais le suivi de livraison manquait de précision."
+  },
+  {
+    "id_unique":"MA-0062",
+    "date_enquete":"2026-01-23T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Livraison rapide mais colis légèrement endommagé."
+  },
+  {
+    "id_unique":"MA-0063",
+    "date_enquete":"2026-08-13T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Je suis très déçu : le colis a été livré tard et en mauvais état."
+  },
+  {
+    "id_unique":"MA-0064",
+    "date_enquete":"2026-01-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé à temps et le livreur était professionnel."
+  },
+  {
+    "id_unique":"MA-0065",
+    "date_enquete":"2026-01-30T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Service globalement moyen, ni particulièrement bon ni mauvais."
+  },
+  {
+    "id_unique":"MA-0066",
+    "date_enquete":"2026-08-06T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis a été livré dans de bonnes conditions et le service client a répondu rapidement."
+  },
+  {
+    "id_unique":"MA-0067",
+    "date_enquete":"2026-06-29T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0068",
+    "date_enquete":"2026-05-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":1.0,
+    "commentaire_global":"Expérience décevante dans l'ensemble, malgré un colis reçu en bon état."
+  },
+  {
+    "id_unique":"MA-0069",
+    "date_enquete":"2026-03-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison a été lente et les réponses du service client peu utiles."
+  },
+  {
+    "id_unique":"MA-0070",
+    "date_enquete":"2026-09-15T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Bonne expérience dans l'ensemble, malgré un léger retard."
+  },
+  {
+    "id_unique":"MA-0071",
+    "date_enquete":"2026-02-19T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0072",
+    "date_enquete":"2026-03-26T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très satisfait : livraison rapide, livreur courtois et service client efficace."
+  },
+  {
+    "id_unique":"MA-0073",
+    "date_enquete":"2026-03-21T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"La livraison était correcte, sans problème particulier."
+  },
+  {
+    "id_unique":"MA-0074",
+    "date_enquete":"2026-07-06T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Le colis est arrivé plusieurs jours en retard et le support n'a pas résolu mon problème."
+  },
+  {
+    "id_unique":"MA-0075",
+    "date_enquete":"2026-03-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Très mauvaise expérience, livraison tardive et colis abîmé à l'arrivée."
+  },
+  {
+    "id_unique":"MA-0076",
+    "date_enquete":"2026-04-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Bonne prise en charge, livraison correcte et livreur professionnel."
+  },
+  {
+    "id_unique":"MA-0077",
+    "date_enquete":"2026-06-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Bonne expérience dans l'ensemble, malgré un léger retard."
+  },
+  {
+    "id_unique":"MA-0078",
+    "date_enquete":"2026-06-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0079",
+    "date_enquete":"2026-08-27T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison très rapide, colis en parfait état et livreur très professionnel."
+  },
+  {
+    "id_unique":"MA-0080",
+    "date_enquete":"2026-09-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"La livraison était correcte, sans problème particulier."
+  },
+  {
+    "id_unique":"MA-0081",
+    "date_enquete":"2026-06-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service excellent, colis livré rapidement et sans aucun problème."
+  },
+  {
+    "id_unique":"MA-0082",
+    "date_enquete":"2026-04-15T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis a été livré dans de bonnes conditions et le service client a répondu rapidement."
+  },
+  {
+    "id_unique":"MA-0083",
+    "date_enquete":"2026-09-15T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience positive dans l'ensemble, avec un colis reçu proprement et dans les temps."
+  },
+  {
+    "id_unique":"MA-0084",
+    "date_enquete":"2026-04-04T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0085",
+    "date_enquete":"2026-01-31T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très satisfait : livraison rapide, livreur courtois et service client efficace."
+  },
+  {
+    "id_unique":"MA-0086",
+    "date_enquete":"2026-03-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"La livraison était correcte, sans problème particulier."
+  },
+  {
+    "id_unique":"MA-0087",
+    "date_enquete":"2026-03-12T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Tout était parfait, de la livraison à l'état du colis."
+  },
+  {
+    "id_unique":"MA-0088",
+    "date_enquete":"2026-03-14T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé plus tôt que prévu, parfaitement emballé et en excellent état."
+  },
+  {
+    "id_unique":"MA-0089",
+    "date_enquete":"2026-05-31T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison très rapide, colis en parfait état et livreur très professionnel."
+  },
+  {
+    "id_unique":"MA-0090",
+    "date_enquete":"2026-01-05T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service excellent, colis livré rapidement et sans aucun problème."
+  },
+  {
+    "id_unique":"MA-0091",
+    "date_enquete":"2026-05-06T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0092",
+    "date_enquete":"2026-02-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0093",
+    "date_enquete":"2026-08-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":1.0,
+    "commentaire_global":"Expérience décevante dans l'ensemble, malgré un colis reçu en bon état."
+  },
+  {
+    "id_unique":"MA-0094",
+    "date_enquete":"2026-05-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0095",
+    "date_enquete":"2026-05-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé correctement, même si l'expérience n'avait rien d'exceptionnel."
+  },
+  {
+    "id_unique":"MA-0096",
+    "date_enquete":"2026-08-28T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Livraison très en retard, colis endommagé et service client impossible à joindre."
+  },
+  {
+    "id_unique":"MA-0097",
+    "date_enquete":"2026-02-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est passée normalement et le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0098",
+    "date_enquete":"2026-07-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé correctement, même si l'expérience n'avait rien d'exceptionnel."
+  },
+  {
+    "id_unique":"MA-0099",
+    "date_enquete":"2026-01-18T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Excellente expérience, tout s'est très bien passé."
+  },
+  {
+    "id_unique":"MA-0100",
+    "date_enquete":"2026-06-05T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0101",
+    "date_enquete":"2026-05-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Très mauvaise expérience, livraison tardive et colis abîmé à l'arrivée."
+  },
+  {
+    "id_unique":"MA-0102",
+    "date_enquete":"2026-03-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très bonne expérience, avec une livraison ponctuelle et un colis impeccable."
+  },
+  {
+    "id_unique":"MA-0103",
+    "date_enquete":"2026-04-19T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service excellent, colis livré rapidement et sans aucun problème."
+  },
+  {
+    "id_unique":"MA-0104",
+    "date_enquete":"2026-03-11T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0105",
+    "date_enquete":"2026-07-12T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0106",
+    "date_enquete":"2026-08-10T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis était correct mais la livraison a pris trop de temps."
+  },
+  {
+    "id_unique":"MA-0107",
+    "date_enquete":"2026-03-27T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis a bien été reçu, avec un léger retard sans conséquence importante."
+  },
+  {
+    "id_unique":"MA-0108",
+    "date_enquete":"2026-04-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le livreur a été peu professionnel et le colis est arrivé en mauvais état."
+  },
+  {
+    "id_unique":"MA-0109",
+    "date_enquete":"2026-06-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"La livraison était correcte, sans problème particulier."
+  },
+  {
+    "id_unique":"MA-0110",
+    "date_enquete":"2026-01-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service excellent, colis livré rapidement et sans aucun problème."
+  },
+  {
+    "id_unique":"MA-0111",
+    "date_enquete":"2026-08-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience positive dans l'ensemble, avec un colis reçu proprement et dans les temps."
+  },
+  {
+    "id_unique":"MA-0112",
+    "date_enquete":"2026-06-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Le service a été mauvais du début à la fin, avec beaucoup de retard et un colis abîmé."
+  },
+  {
+    "id_unique":"MA-0113",
+    "date_enquete":"2026-08-11T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé plus tôt que prévu, parfaitement emballé et en excellent état."
+  },
+  {
+    "id_unique":"MA-0114",
+    "date_enquete":"2026-09-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison un peu tardive mais très bonne prise en charge du livreur."
+  },
+  {
+    "id_unique":"MA-0115",
+    "date_enquete":"2026-01-26T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience positive dans l'ensemble, avec un colis reçu proprement et dans les temps."
+  },
+  {
+    "id_unique":"MA-0116",
+    "date_enquete":"2026-07-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Service globalement moyen, ni particulièrement bon ni mauvais."
+  },
+  {
+    "id_unique":"MA-0117",
+    "date_enquete":"2026-07-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Service globalement moyen, ni particulièrement bon ni mauvais."
+  },
+  {
+    "id_unique":"MA-0118",
+    "date_enquete":"2026-09-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience positive dans l'ensemble, avec un colis reçu proprement et dans les temps."
+  },
+  {
+    "id_unique":"MA-0119",
+    "date_enquete":"2026-07-18T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé plus tôt que prévu, parfaitement emballé et en excellent état."
+  },
+  {
+    "id_unique":"MA-0120",
+    "date_enquete":"2026-03-30T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Excellente expérience, tout s'est très bien passé."
+  },
+  {
+    "id_unique":"MA-0121",
+    "date_enquete":"2026-03-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis était en parfait état, mais le service client a mis du temps à répondre."
+  },
+  {
+    "id_unique":"MA-0122",
+    "date_enquete":"2026-07-17T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Livraison satisfaisante, colis en bon état et livreur courtois."
+  },
+  {
+    "id_unique":"MA-0123",
+    "date_enquete":"2026-09-21T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0124",
+    "date_enquete":"2026-05-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0125",
+    "date_enquete":"2026-04-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0126",
+    "date_enquete":"2026-09-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0127",
+    "date_enquete":"2026-09-15T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience très insatisfaisante, livraison tardive et mauvaise prise en charge du service client."
+  },
+  {
+    "id_unique":"MA-0128",
+    "date_enquete":"2026-06-28T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Je suis plutôt insatisfait, surtout à cause du délai de livraison."
+  },
+  {
+    "id_unique":"MA-0129",
+    "date_enquete":"2026-06-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est mal passée, même si le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0130",
+    "date_enquete":"2026-08-26T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0131",
+    "date_enquete":"2026-09-28T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Le livreur était correct, mais le retard de livraison était important."
+  },
+  {
+    "id_unique":"MA-0132",
+    "date_enquete":"2026-09-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé plus tôt que prévu, parfaitement emballé et en excellent état."
+  },
+  {
+    "id_unique":"MA-0133",
+    "date_enquete":"2026-09-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0134",
+    "date_enquete":"2026-04-17T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très satisfait : livraison rapide, livreur courtois et service client efficace."
+  },
+  {
+    "id_unique":"MA-0135",
+    "date_enquete":"2026-04-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0136",
+    "date_enquete":"2026-08-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0137",
+    "date_enquete":"2026-05-31T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0138",
+    "date_enquete":"2026-05-29T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service excellent, colis livré rapidement et sans aucun problème."
+  },
+  {
+    "id_unique":"MA-0139",
+    "date_enquete":"2026-04-19T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0140",
+    "date_enquete":"2026-04-13T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très satisfait : livraison rapide, livreur courtois et service client efficace."
+  },
+  {
+    "id_unique":"MA-0141",
+    "date_enquete":"2026-05-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Bonne prise en charge, livraison correcte et livreur professionnel."
+  },
+  {
+    "id_unique":"MA-0142",
+    "date_enquete":"2026-04-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est mal passée, même si le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0143",
+    "date_enquete":"2026-08-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0144",
+    "date_enquete":"2026-06-19T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison a été lente et les réponses du service client peu utiles."
+  },
+  {
+    "id_unique":"MA-0145",
+    "date_enquete":"2026-08-12T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le livreur a été peu professionnel et le colis est arrivé en mauvais état."
+  },
+  {
+    "id_unique":"MA-0146",
+    "date_enquete":"2026-03-11T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0147",
+    "date_enquete":"2026-02-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Je suis pleinement satisfait, le service a été rapide et professionnel."
+  },
+  {
+    "id_unique":"MA-0148",
+    "date_enquete":"2026-03-28T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Je suis pleinement satisfait, le service a été rapide et professionnel."
+  },
+  {
+    "id_unique":"MA-0149",
+    "date_enquete":"2026-07-05T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison très rapide, colis en parfait état et livreur très professionnel."
+  },
+  {
+    "id_unique":"MA-0150",
+    "date_enquete":"2026-02-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Bonne expérience dans l'ensemble, malgré un léger retard."
+  },
+  {
+    "id_unique":"MA-0151",
+    "date_enquete":"2026-05-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Le colis est arrivé plusieurs jours en retard et le support n'a pas résolu mon problème."
+  },
+  {
+    "id_unique":"MA-0152",
+    "date_enquete":"2026-09-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Excellente expérience, tout s'est très bien passé."
+  },
+  {
+    "id_unique":"MA-0153",
+    "date_enquete":"2026-01-23T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Service globalement moyen, ni particulièrement bon ni mauvais."
+  },
+  {
+    "id_unique":"MA-0154",
+    "date_enquete":"2026-02-05T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0155",
+    "date_enquete":"2026-06-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0156",
+    "date_enquete":"2026-07-04T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Le colis est arrivé avec du retard et le service client était difficile à joindre."
+  },
+  {
+    "id_unique":"MA-0157",
+    "date_enquete":"2026-06-03T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience positive dans l'ensemble, avec un colis reçu proprement et dans les temps."
+  },
+  {
+    "id_unique":"MA-0158",
+    "date_enquete":"2026-03-11T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0159",
+    "date_enquete":"2026-09-23T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé plus tôt que prévu, parfaitement emballé et en excellent état."
+  },
+  {
+    "id_unique":"MA-0160",
+    "date_enquete":"2026-09-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison très rapide, colis en parfait état et livreur très professionnel."
+  },
+  {
+    "id_unique":"MA-0161",
+    "date_enquete":"2026-05-10T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très satisfait : livraison rapide, livreur courtois et service client efficace."
+  },
+  {
+    "id_unique":"MA-0162",
+    "date_enquete":"2026-04-04T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé correctement, même si l'expérience n'avait rien d'exceptionnel."
+  },
+  {
+    "id_unique":"MA-0163",
+    "date_enquete":"2026-09-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0164",
+    "date_enquete":"2026-02-09T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé à temps et le livreur était professionnel."
+  },
+  {
+    "id_unique":"MA-0165",
+    "date_enquete":"2026-03-29T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Livraison satisfaisante, colis en bon état et livreur courtois."
+  },
+  {
+    "id_unique":"MA-0166",
+    "date_enquete":"2026-07-11T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Service excellent, colis livré rapidement et sans aucun problème."
+  },
+  {
+    "id_unique":"MA-0167",
+    "date_enquete":"2026-03-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0168",
+    "date_enquete":"2026-05-18T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé plus tôt que prévu, parfaitement emballé et en excellent état."
+  },
+  {
+    "id_unique":"MA-0169",
+    "date_enquete":"2026-07-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Je suis pleinement satisfait, le service a été rapide et professionnel."
+  },
+  {
+    "id_unique":"MA-0170",
+    "date_enquete":"2026-04-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le livreur était professionnel mais le colis est arrivé en retard."
+  },
+  {
+    "id_unique":"MA-0171",
+    "date_enquete":"2026-09-12T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Je suis pleinement satisfait, le service a été rapide et professionnel."
+  },
+  {
+    "id_unique":"MA-0172",
+    "date_enquete":"2026-09-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est passée normalement et le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0173",
+    "date_enquete":"2026-07-29T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Livraison satisfaisante, colis en bon état et livreur courtois."
+  },
+  {
+    "id_unique":"MA-0174",
+    "date_enquete":"2026-04-05T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le service était bon et le colis est arrivé sans dommage."
+  },
+  {
+    "id_unique":"MA-0175",
+    "date_enquete":"2026-04-10T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0176",
+    "date_enquete":"2026-03-13T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis a bien été reçu, avec un léger retard sans conséquence importante."
+  },
+  {
+    "id_unique":"MA-0177",
+    "date_enquete":"2026-03-12T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0178",
+    "date_enquete":"2026-09-07T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Tout était parfait, de la livraison à l'état du colis."
+  },
+  {
+    "id_unique":"MA-0179",
+    "date_enquete":"2026-02-13T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0180",
+    "date_enquete":"2026-07-01T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Le colis est arrivé avec du retard et le service client était difficile à joindre."
+  },
+  {
+    "id_unique":"MA-0181",
+    "date_enquete":"2026-07-10T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison s'est passée normalement et le colis était en bon état."
+  },
+  {
+    "id_unique":"MA-0182",
+    "date_enquete":"2026-01-26T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Bonne prise en charge, livraison correcte et livreur professionnel."
+  },
+  {
+    "id_unique":"MA-0183",
+    "date_enquete":"2026-04-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Livraison satisfaisante, colis en bon état et livreur courtois."
+  },
+  {
+    "id_unique":"MA-0184",
+    "date_enquete":"2026-06-21T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Livraison très rapide, colis en parfait état et livreur très professionnel."
+  },
+  {
+    "id_unique":"MA-0185",
+    "date_enquete":"2026-08-08T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience positive dans l'ensemble, avec un colis reçu proprement et dans les temps."
+  },
+  {
+    "id_unique":"MA-0186",
+    "date_enquete":"2026-04-11T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Livraison satisfaisante, colis en bon état et livreur courtois."
+  },
+  {
+    "id_unique":"MA-0187",
+    "date_enquete":"2026-06-16T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"La livraison était correcte, sans problème particulier."
+  },
+  {
+    "id_unique":"MA-0188",
+    "date_enquete":"2026-08-29T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Je suis pleinement satisfait, le service a été rapide et professionnel."
+  },
+  {
+    "id_unique":"MA-0189",
+    "date_enquete":"2026-08-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience correcte dans l'ensemble, mais le service client pourrait être plus réactif."
+  },
+  {
+    "id_unique":"MA-0190",
+    "date_enquete":"2026-05-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Le colis est arrivé à temps et le livreur était professionnel."
+  },
+  {
+    "id_unique":"MA-0191",
+    "date_enquete":"2026-05-22T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé intact mais le suivi et le service client n'étaient pas satisfaisants."
+  },
+  {
+    "id_unique":"MA-0192",
+    "date_enquete":"2026-03-24T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Le colis est arrivé dans un état correct, mais le délai était un peu long."
+  },
+  {
+    "id_unique":"MA-0193",
+    "date_enquete":"2026-06-17T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Tout était parfait, de la livraison à l'état du colis."
+  },
+  {
+    "id_unique":"MA-0194",
+    "date_enquete":"2026-09-18T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  },
+  {
+    "id_unique":"MA-0195",
+    "date_enquete":"2026-04-20T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_PREMIUM",
+    "produit_global":"PREMIUM",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"La livraison a été lente et les réponses du service client peu utiles."
+  },
+  {
+    "id_unique":"MA-0196",
+    "date_enquete":"2026-03-02T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":2.0,
+    "commentaire_global":"Je suis très déçu : le colis a été livré tard et en mauvais état."
+  },
+  {
+    "id_unique":"MA-0197",
+    "date_enquete":"2026-09-15T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_EXPRESS",
+    "produit_global":"EXPRESS",
+    "satisfaction_normalisee":3.0,
+    "commentaire_global":"Expérience très insatisfaisante, livraison tardive et mauvaise prise en charge du service client."
+  },
+  {
+    "id_unique":"MA-0198",
+    "date_enquete":"2026-04-14T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Très bonne expérience, avec une livraison ponctuelle et un colis impeccable."
+  },
+  {
+    "id_unique":"MA-0199",
+    "date_enquete":"2026-08-30T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":5.0,
+    "commentaire_global":"Tout était parfait, de la livraison à l'état du colis."
+  },
+  {
+    "id_unique":"MA-0200",
+    "date_enquete":"2026-09-10T00:00:00.000",
+    "pays":"Maroc",
+    "code_produit":"COLIS_STANDARD",
+    "produit_global":"STANDARD",
+    "satisfaction_normalisee":4.0,
+    "commentaire_global":"Je suis satisfait de la livraison et de l'état du colis."
+  }
+]
